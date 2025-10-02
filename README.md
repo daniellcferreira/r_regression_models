@@ -55,4 +55,3 @@ Cada exemplo mostra um estágio diferente do fluxo de trabalho em ciência de da
 ---
 
 Este material serve como guia prático para estudantes e profissionais que desejam entender na prática como aplicar diferentes técnicas de **machine learning supervisionado** em R.
-
